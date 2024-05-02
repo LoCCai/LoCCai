@@ -14,8 +14,6 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-![](https://raw.githubusercontent.com/LoCCai/LoCCai/main/assets/github-contribution-grid-snake.svg)
-
 
 const readme = `\
 ### Hi there 👋
